@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HFJMSuperImages_Example' do
+  pod 'HFJMSuperImages', :path => '../'
+
+  target 'HFJMSuperImages_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

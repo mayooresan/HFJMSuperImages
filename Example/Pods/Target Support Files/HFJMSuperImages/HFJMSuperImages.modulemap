@@ -1,0 +1,6 @@
+framework module HFJMSuperImages {
+  umbrella header "HFJMSuperImages-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "HFJMSuperImages",
+  "version": "0.1.0",
+  "summary": "A short description of HFJMSuperImages.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mayooresan/HFJMSuperImages",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mayooresan": "mayu3g@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/mayooresan/HFJMSuperImages.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HFJMSuperImages/Classes/**/*"
+}
