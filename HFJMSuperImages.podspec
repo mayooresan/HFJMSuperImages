@@ -30,7 +30,8 @@ This library can make border and border clor without any problem.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'HFJMSuperImages/Classes/*.swift'
+  s.source_files = 'Classes/*.swift'
+  s.swift_versions = '5.0'
   
   # s.resource_bundles = {
   #   'HFJMSuperImages' => ['HFJMSuperImages/Assets/*.png']
